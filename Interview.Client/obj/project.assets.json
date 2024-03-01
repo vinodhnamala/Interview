@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Interview.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Interview.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interview.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interview.Library/1.0.0": {
+      "type": "project",
+      "path": "../Interview.Library/Interview.Library.csproj",
+      "msbuildProject": "../Interview.Library/Interview.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Interview.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vinodh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vinodh\\source\\repos\\Interview\\Interview.Client\\Interview.Client.csproj",
+      "projectName": "Interview.Client",
+      "projectPath": "C:\\Users\\vinodh\\source\\repos\\Interview\\Interview.Client\\Interview.Client.csproj",
+      "packagesPath": "C:\\Users\\vinodh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vinodh\\source\\repos\\Interview\\Interview.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vinodh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\vinodh\\source\\repos\\Interview\\Interview.Library\\Interview.Library.csproj": {
+              "projectPath": "C:\\Users\\vinodh\\source\\repos\\Interview\\Interview.Library\\Interview.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

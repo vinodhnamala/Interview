@@ -1,0 +1,11 @@
+C:\Users\vinodh\source\repos\Interview\Interview.Library\bin\Debug\net6.0\Interview.Library.deps.json
+C:\Users\vinodh\source\repos\Interview\Interview.Library\bin\Debug\net6.0\Interview.Library.dll
+C:\Users\vinodh\source\repos\Interview\Interview.Library\bin\Debug\net6.0\Interview.Library.pdb
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\Interview.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\Interview.Library.AssemblyInfoInputs.cache
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\Interview.Library.AssemblyInfo.cs
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\Interview.Library.csproj.CoreCompileInputs.cache
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\Interview.Library.dll
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\refint\Interview.Library.dll
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\Interview.Library.pdb
+C:\Users\vinodh\source\repos\Interview\Interview.Library\obj\Debug\net6.0\ref\Interview.Library.dll

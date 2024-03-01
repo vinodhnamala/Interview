@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Interview.Client/1.0.0": {
+        "dependencies": {
+          "Interview.Library": "1.0.0"
+        },
+        "runtime": {
+          "Interview.Client.dll": {}
+        }
+      },
+      "Interview.Library/1.0.0": {
+        "runtime": {
+          "Interview.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interview.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interview.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
